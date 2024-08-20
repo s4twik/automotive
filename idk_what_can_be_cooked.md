@@ -62,6 +62,15 @@ Certainly! I'd be happy to explain how CAN (Controller Area Network) works. CAN 
 
 i still am not sure if these can be stored as a different file type or it is just a protocol, if it's later then there is no point but we trust.
 
+things i know about CAN
 
+````
+* Baudrate of all the nodes are same
+*![image](https://github.com/user-attachments/assets/24c24a7d-93cb-40cf-a39f-4faf9e0c84cf)
+* Transceiver sends data in a differential signal format
+*
+````
 RESOURCES:
 `https://training.dewesoft.com/online/course/automotive-buses-can-measurement`
+`https://dauntlessdevices.com/getting-started-with-can-bus-sniffing-what-can-i-see-via-the-obd-port/`
+`https://www.youtube.com/watch?v=LnDq5oujfK0`
