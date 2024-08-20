@@ -61,3 +61,7 @@ Certainly! I'd be happy to explain how CAN (Controller Area Network) works. CAN 
 ```
 
 i still am not sure if these can be stored as a different file type or it is just a protocol, if it's later then there is no point but we trust.
+
+
+RESOURCES:
+`https://training.dewesoft.com/online/course/automotive-buses-can-measurement`
